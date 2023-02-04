@@ -18,3 +18,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=YhinkaDevOps&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YhinkaDevOps&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YhinkaDevOps&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### Connect with me:
+<p align="left">
+<a href="https://instagram.com/yinka_bakare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorkcoder484" height="30" width="40" /></a>
+</p>
