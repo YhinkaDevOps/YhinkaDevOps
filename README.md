@@ -18,10 +18,12 @@
 </p>
 
 
-
-![](https://github-readme-stats.vercel.app/api?username=YhinkaDevOps&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p>
+  ![](https://github-readme-stats.vercel.app/api?username=YhinkaDevOps&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YhinkaDevOps&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YhinkaDevOps&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
+
 
 ### Connect with me:
 <p align="left">
